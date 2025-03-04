@@ -1,6 +1,6 @@
 # Mi Proyecto Web
 
-¡Bienvenido a mi proyecto web! Este proyecto es una página web moderna y responsiva que utiliza HTML y CSS para crear una experiencia de usuario atractiva y funcional.
+¡Bienvenido a mi proyecto web! Este proyecto es una página web básica y responsiva que utiliza HTML y CSS para crear una experiencia de usuario atractiva y funcional.
 
 ## Descripción
 
@@ -35,9 +35,9 @@ mi-proyecto-web/ ├── index.html ├── styles.css ├── images/ │
 
 ## Autor
 
-- **Nombre**: Tu Nombre
-- **Correo**: tu.email@example.com
-- **GitHub**: tu-usuario
+- **Nombre**: Jhon Jairo (Haize_07x)
+- **Correo**: jhonjairocontrerasegido@gmail.com
+- **GitHub**: jhoncito07
 
 ## Licencia
 
